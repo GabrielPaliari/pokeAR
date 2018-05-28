@@ -1,0 +1,1088 @@
+﻿Log file open, 05/27/18 16:46:19
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: PokeAR
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(399485645) SRandInit(399485645).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.187415
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/GoogleARCore/Binaries/Win64/UE4Editor-GoogleARCoreBase.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/GoogleARCore/Binaries/Win64/UE4Editor-GoogleARCoreRendering.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleARCore
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.149s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-GG3LHAR (169.254.187.45:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.27-19.46.21:136][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.27-19.46.21:136][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.27-19.46.21:180][  0]LogInit: Computer: DESKTOP-GG3LHAR
+[2018.05.27-19.46.21:180][  0]LogInit: User: diama
+[2018.05.27-19.46.21:180][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.27-19.46.21:180][  0]LogInit: High frequency timer resolution =2.648444 MHz
+[2018.05.27-19.46.21:180][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.05.27-19.46.21:180][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.27-19.46.21:180][  0]LogMemory: Process Physical Memory: 274.16 MB used, 274.16 MB peak
+[2018.05.27-19.46.21:181][  0]LogMemory: Process Virtual Memory: 266.14 MB used, 266.14 MB peak
+[2018.05.27-19.46.21:181][  0]LogMemory: Physical Memory: 6004.25 MB used,  2126.92 MB free, 8131.17 MB total
+[2018.05.27-19.46.21:181][  0]LogMemory: Virtual Memory: 4785.14 MB used,  2126.92 MB free, 134217728.00 MB total
+[2018.05.27-19.46.21:203][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.05.27-19.46.21:203][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.05.27-19.46.21:926][  0]LogStreaming: Display: Took  0.723s to EndInitTextLocalization.
+[2018.05.27-19.46.21:927][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.27-19.46.22:066][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.27-19.46.22:066][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.27-19.46.26:873][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.27-19.46.26:913][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 730' (Feature Level 11_0)
+[2018.05.27-19.46.26:913][  0]LogD3D11RHI:       2007/0/4065 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.27-19.46.26:914][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.27-19.46.26:914][  0]LogD3D11RHI:       0/0/4065 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.27-19.46.26:914][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.27-19.46.26:921][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.27-19.46.26:921][  0]LogD3D11RHI:     GPU DeviceId: 0x1287 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.27-19.46.26:921][  0]LogWindows: EnumDisplayDevices:
+[2018.05.27-19.46.26:921][  0]LogWindows:    0. 'NVIDIA GeForce GT 730' (P:1 D:1)
+[2018.05.27-19.46.26:921][  0]LogWindows:    1. 'NVIDIA GeForce GT 730' (P:0 D:0)
+[2018.05.27-19.46.26:922][  0]LogWindows:    2. 'NVIDIA GeForce GT 730' (P:0 D:0)
+[2018.05.27-19.46.26:922][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.27-19.46.26:922][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 730
+[2018.05.27-19.46.26:922][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.27-19.46.26:922][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.27-19.46.26:922][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
+[2018.05.27-19.46.26:949][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.27-19.46.26:949][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.27-19.46.26:968][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.27-19.46.26:970][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Intermediate/Shaders/WorkingDirectory/10428/).
+[2018.05.27-19.46.26:970][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/diama/AppData/Local/Temp/UnrealShaderWorkingDir/EB8310A24CC59F9B21199EB91E008885/'.
+[2018.05.27-19.46.27:185][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.27-19.46.27:200][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.27-19.46.27:216][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.27-19.46.27:232][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.27-19.46.27:248][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.27-19.46.27:263][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.27-19.46.27:279][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.27-19.46.27:294][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.27-19.46.27:302][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.27-19.46.27:316][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.27-19.46.27:330][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.27-19.46.27:344][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.27-19.46.27:358][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.27-19.46.27:373][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.27-19.46.27:386][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.27-19.46.27:414][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.27-19.46.27:414][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.27-19.46.27:428][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.27-19.46.27:429][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.27-19.46.27:468][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.27-19.46.27:481][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.27-19.46.27:495][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.27-19.46.27:509][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.27-19.46.27:523][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.27-19.46.27:538][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.27-19.46.27:538][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.27-19.46.27:655][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.27-19.46.27:655][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.27-19.46.27:655][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.27-19.46.28:374][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.27-19.46.28:441][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB C:/Users/diama/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.27-19.46.28:441][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/diama/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.27-19.46.28:441][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.27-19.46.28:441][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.27-19.46.28:441][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.27-19.46.28:441][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.27-19.46.28:459][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.27-19.46.28:471][  0]LogDerivedDataCache: Using Local data cache path C:/Users/diama/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.27-19.46.28:471][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.05.27-19.46.28:471][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.05.27-19.46.28:483][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.27-19.46.28:483][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.27-19.46.28:483][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.27-19.46.28:483][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.27-19.46.28:604][  0]LogAssetRegistry: FAssetRegistry took 0.0272 seconds to start up
+[2018.05.27-19.46.28:944][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.27-19.46.29:112][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.27-19.46.29:115][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.27-19.46.29:115][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.27-19.46.29:115][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.27-19.46.29:115][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.27-19.46.29:115][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.27-19.46.29:144][  0]LogNetVersion: PokeAR , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4008714031)
+[2018.05.27-19.46.29:616][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.062599 seconds
+[2018.05.27-19.46.29:622][  0]LogUObjectArray: 36745 objects as part of root set at end of initial load.
+[2018.05.27-19.46.29:622][  0]LogUObjectAllocator: 7321960 out of 0 bytes used by permanent object pool.
+[2018.05.27-19.46.29:622][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.27-19.46.31:375][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.27-19.46.31:404][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.27-19.46.31:768][  0]SourceControl: Source control is disabled
+[2018.05.27-19.46.31:768][  0]SourceControl: Source control is disabled
+[2018.05.27-19.46.31:786][  0]SourceControl: Source control is disabled
+[2018.05.27-19.46.31:804][  0]SourceControl: Source control is disabled
+[2018.05.27-19.46.32:308][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.27-19.46.32:472][  0]LogOcInput: OculusInput pre-init called
+[2018.05.27-19.46.32:584][  0]LogEngine: Initializing Engine...
+[2018.05.27-19.46.32:585][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.27-19.46.32:587][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.27-19.46.32:587][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.27-19.46.32:820][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.27-19.46.32:835][  0]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.27-19.46.32:859][  0]LogInit: FAudioDevice initialized.
+[2018.05.27-19.46.32:967][  0]LogDerivedDataCache: Saved boot cache 0.11s 74MB C:/Users/diama/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.27-19.46.32:981][  0]LogInit: Texture streaming: Enabled
+[2018.05.27-19.46.33:002][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.27-19.46.33:025][  0]LogInit: Transaction tracking system initialized
+[2018.05.27-19.46.33:051][  0]BlueprintLog: New page: Editor Load
+[2018.05.27-19.46.33:132][  0]LocalizationService: Localization service is disabled
+[2018.05.27-19.46.33:206][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.05.27-19.46.33:206][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.05.27-19.46.33:206][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2018.05.27-19.46.33:230][  0]LogConsoleResponse: Display: 
+[2018.05.27-19.46.33:399][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.27-19.46.33:399][  0]LogCook: Display: Mobile HDR setting 0
+[2018.05.27-19.46.33:399][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.27-19.46.33:399][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.27-19.46.33:399][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.27-19.46.33:641][  0]LogFileCache: Scanning file cache for directory 'C:/Users/diama/Documents/Unreal Projects/PokeAR/Content/' took 0.02s
+[2018.05.27-19.46.33:777][  0]SourceControl: Source control is disabled
+[2018.05.27-19.46.33:777][  0]Cmd: MAP LOAD FILE="../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Content/HandheldARBP/Maps/HandheldARBlankMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.27-19.46.33:778][  0]LightingResults: New page: Lighting Build
+[2018.05.27-19.46.33:781][  0]MapCheck: New page: Map Check
+[2018.05.27-19.46.33:781][  0]LightingResults: New page: Lighting Build
+[2018.05.27-19.46.33:795][  0]LogLinker: Warning: Can't find file '/Game/HandheldARBP/Charizard/charizardV11Export_Anim_Armature_001_Armature_Waiting'
+[2018.05.27-19.46.33:795][  0]LogLinker: Warning: Can't find file for asset '/Game/HandheldARBP/Charizard/charizardV11Export_Anim_Armature_001_Armature_Waiting' while loading ../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Content/Blueprints/charizardV11Export.uasset.
+[2018.05.27-19.46.33:795][  0]LoadErrors: Error: /Game/Blueprints/charizardV11Export : Can't find file for asset. /Game/HandheldARBP/Charizard/charizardV11Export_Anim_Armature_001_Armature_Waiting
+[2018.05.27-19.46.33:796][  0]LogLinker: Warning: Can't find file '/Game/HandheldARBP/Charizard/charizardV11Export'
+[2018.05.27-19.46.33:796][  0]LogLinker: Warning: Can't find file for asset '/Game/HandheldARBP/Charizard/charizardV11Export' while loading ../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Content/Blueprints/charizardV11Export.uasset.
+[2018.05.27-19.46.33:796][  0]LoadErrors: Error: /Game/Blueprints/charizardV11Export : Can't find file for asset. /Game/HandheldARBP/Charizard/charizardV11Export
+[2018.05.27-19.46.33:796][  0]LogLinker: Warning: Can't find file '/Game/HandheldARBP/Charizard/charizardV11Export_Anim_Armature_001_Armature_Waiting'
+[2018.05.27-19.46.33:797][  0]LogLinker: Warning: Can't find file for asset '/Game/HandheldARBP/Charizard/charizardV11Export_Anim_Armature_001_Armature_Waiting' while loading ../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Content/Blueprints/charizardV11Export.uasset.
+[2018.05.27-19.46.33:797][  0]LoadErrors: Error: /Game/Blueprints/charizardV11Export : Can't find file for asset. /Game/HandheldARBP/Charizard/charizardV11Export_Anim_Armature_001_Armature_Waiting
+[2018.05.27-19.46.33:797][  0]LogLinker: Warning: Can't find file '/Game/HandheldARBP/Charizard/charizardV11Export'
+[2018.05.27-19.46.33:797][  0]LogLinker: Warning: Can't find file for asset '/Game/HandheldARBP/Charizard/charizardV11Export' while loading ../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Content/Blueprints/charizardV11Export.uasset.
+[2018.05.27-19.46.33:797][  0]LoadErrors: Error: /Game/Blueprints/charizardV11Export : Can't find file for asset. /Game/HandheldARBP/Charizard/charizardV11Export
+[2018.05.27-19.46.33:798][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cce7085d0, Size=4, Default__charizardV11Export_C Function /Game/Blueprints/charizardV11Export.charizardV11Export_C:ExecuteUbergraph_charizardV11Export
+[2018.05.27-19.46.33:798][  0]LogLinker: Warning: Can't find file '/Game/HandheldARBP/Charizard/charizardV11Export_Anim_Armature_001_Armature_Waiting'
+[2018.05.27-19.46.33:798][  0]LogLinker: Warning: Can't find file for asset '/Game/HandheldARBP/Charizard/charizardV11Export_Anim_Armature_001_Armature_Waiting' while loading ../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Content/HandheldARBP/Maps/HandheldARBlankMap.umap.
+[2018.05.27-19.46.33:798][  0]LoadErrors: Error: /Game/HandheldARBP/Maps/HandheldARBlankMap : Can't find file for asset. /Game/HandheldARBP/Charizard/charizardV11Export_Anim_Armature_001_Armature_Waiting
+[2018.05.27-19.46.33:798][  0]LogLinker: Warning: Can't find file '/Game/HandheldARBP/Charizard/charizardV11Export'
+[2018.05.27-19.46.33:798][  0]LogLinker: Warning: Can't find file for asset '/Game/HandheldARBP/Charizard/charizardV11Export' while loading ../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Content/HandheldARBP/Maps/HandheldARBlankMap.umap.
+[2018.05.27-19.46.33:798][  0]LoadErrors: Error: /Game/HandheldARBP/Maps/HandheldARBlankMap : Can't find file for asset. /Game/HandheldARBP/Charizard/charizardV11Export
+[2018.05.27-19.46.33:799][  0]LogLinker: Warning: Can't find file '/Game/HandheldARBP/Charizard/charizardV11Export_Anim_Armature_001_Armature_Waiting'
+[2018.05.27-19.46.33:799][  0]LogLinker: Warning: Can't find file for asset '/Game/HandheldARBP/Charizard/charizardV11Export_Anim_Armature_001_Armature_Waiting' while loading ../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Content/HandheldARBP/Maps/HandheldARBlankMap.umap.
+[2018.05.27-19.46.33:799][  0]LoadErrors: Error: /Game/HandheldARBP/Maps/HandheldARBlankMap : Can't find file for asset. /Game/HandheldARBP/Charizard/charizardV11Export_Anim_Armature_001_Armature_Waiting
+[2018.05.27-19.46.33:799][  0]LogLinker: Warning: Can't find file '/Game/HandheldARBP/Charizard/charizardV11Export'
+[2018.05.27-19.46.33:799][  0]LogLinker: Warning: Can't find file for asset '/Game/HandheldARBP/Charizard/charizardV11Export' while loading ../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Content/HandheldARBP/Maps/HandheldARBlankMap.umap.
+[2018.05.27-19.46.33:799][  0]LoadErrors: Error: /Game/HandheldARBP/Maps/HandheldARBlankMap : Can't find file for asset. /Game/HandheldARBP/Charizard/charizardV11Export
+[2018.05.27-19.46.33:800][  0]LogLinker: Warning: Can't find file '/Game/HandheldARBP/Charizard/charizardV11Export_Anim_Armature_001_Armature_Waiting'
+[2018.05.27-19.46.33:800][  0]LoadErrors: Failed to load /Game/HandheldARBP/Charizard/charizardV11Export_Anim_Armature_001_Armature_Waiting.charizardV11Export_Anim_Armature_001_Armature_Waiting Referenced by K2Node_CallFunction_0
+[2018.05.27-19.46.33:800][  0]LogLinker: Warning: Can't find file for asset '/Game/HandheldARBP/Charizard/charizardV11Export_Anim_Armature_001_Armature_Waiting' while loading ../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Content/HandheldARBP/Maps/HandheldARBlankMap.umap.
+[2018.05.27-19.46.33:800][  0]LoadErrors: Failed to load /Game/HandheldARBP/Charizard/charizardV11Export_Anim_Armature_001_Armature_Waiting.charizardV11Export_Anim_Armature_001_Armature_Waiting Referenced by K2Node_CallFunction_0
+[2018.05.27-19.46.33:801][  0]LoadErrors: Error: /Game/HandheldARBP/Maps/HandheldARBlankMap : Can't find file for asset. /Game/HandheldARBP/Charizard/charizardV11Export_Anim_Armature_001_Armature_Waiting
+[2018.05.27-19.46.33:801][  0]LogLinker: Warning: Can't find file '/Game/HandheldARBP/Charizard/charizardV11Export'
+[2018.05.27-19.46.33:801][  0]LoadErrors: Failed to load /Game/HandheldARBP/Charizard/charizardV11Export.charizardV11Export Referenced by SkeletalMesh_GEN_VARIABLE
+[2018.05.27-19.46.33:801][  0]LogLinker: Warning: Can't find file for asset '/Game/HandheldARBP/Charizard/charizardV11Export' while loading ../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Content/HandheldARBP/Maps/HandheldARBlankMap.umap.
+[2018.05.27-19.46.33:801][  0]LoadErrors: Failed to load /Game/HandheldARBP/Charizard/charizardV11Export.charizardV11Export Referenced by SkeletalMesh_GEN_VARIABLE
+[2018.05.27-19.46.33:802][  0]LoadErrors: Error: /Game/HandheldARBP/Maps/HandheldARBlankMap : Can't find file for asset. /Game/HandheldARBP/Charizard/charizardV11Export
+[2018.05.27-19.46.33:803][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cce7085d0, Size=4
+[2018.05.27-19.46.33:803][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cce7085d0, Size=4, Default__charizardV11Export_C Function /Engine/Transient.REINST_charizardV11Export_C_1:ExecuteUbergraph_charizardV11Export
+[2018.05.27-19.46.33:804][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cce708470, Size=4, Default__charizardV11Export_C Function /Game/Blueprints/charizardV11Export.charizardV11Export_C:ExecuteUbergraph_charizardV11Export
+[2018.05.27-19.46.33:813][  0]LogAIModule: Creating AISystem for world HandheldARBlankMap
+[2018.05.27-19.46.33:817][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.27-19.46.33:882][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cce7085d0, Size=4
+[2018.05.27-19.46.33:883][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.27-19.46.33:931][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 48.51ms to complete.
+[2018.05.27-19.46.33:931][  0]LogFileHelpers: Loading map 'HandheldARBlankMap' took 0.154
+[2018.05.27-19.46.34:133][  0]LogCollectionManager: Loaded 0 collections in 0.001729 seconds
+[2018.05.27-19.46.34:183][  0]LogFileCache: Scanning file cache for directory 'C:/Users/diama/Documents/Unreal Projects/PokeAR/Saved/Collections/' took 0.01s
+[2018.05.27-19.46.34:183][  0]LogFileCache: Scanning file cache for directory 'C:/Users/diama/Documents/Unreal Projects/PokeAR/Content/Developers/diama/Collections/' took 0.01s
+[2018.05.27-19.46.34:183][  0]LogFileCache: Scanning file cache for directory 'C:/Users/diama/Documents/Unreal Projects/PokeAR/Content/Collections/' took 0.01s
+[2018.05.27-19.46.34:183][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.05.27-19.46.34:196][  0]LogContentBrowser: Native class hierarchy populated in 0.0127 seconds. Added 2463 classes and 564 folders.
+[2018.05.27-19.46.34:207][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.27-19.46.35:274][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.05.27-19.46.35:278][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.05.27-19.46.35:341][  0]LogSlate: Took 0.000299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.27-19.46.35:343][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.27-19.46.35:370][  0]LogSlate: Took 0.019846 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.27-19.46.35:489][  0]LogRenderer: Reallocating scene render targets to support 940x372 Format 10 NumSamples 1 (Frame:1).
+[2018.05.27-19.46.35:585][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.27-19.46.35:585][  0]LogLoad: (Engine Initialization) Total time: 19.22 seconds
+[2018.05.27-19.46.35:585][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.27-19.46.35:625][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.27-19.46.35:628][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.27-19.46.35:683][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.27-19.46.35:709][  1]LogAssetRegistry: Asset discovery search completed in 7.1277 seconds
+[2018.05.27-19.46.35:711][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.27-19.46.35:711][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
+[2018.05.27-19.46.40:654][290]LogSlate: Window 'Message Log' being destroyed
+[2018.05.27-19.46.40:658][290]LogSlate: Window 'Message Log' being destroyed
+[2018.05.27-19.46.41:954][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.27-19.46.54:636][125]Cmd: DELETE
+[2018.05.27-19.46.54:636][125]Cmd: ACTOR DELETE
+[2018.05.27-19.46.54:947][125]LogEditorActor: Deleted Actor: charizardV11Export_C
+[2018.05.27-19.46.54:959][125]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2018.05.27-19.46.56:080][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.27-19.47.00:642][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.27-19.47.04:813][705]LogEditorActor: Deleted Actor: charizardV11Export_C
+[2018.05.27-19.47.04:825][705]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2018.05.27-19.47.09:666][826]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.27-19.47.09:673][826]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.27-19.47.09:681][826]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cce708470, Size=4
+[2018.05.27-19.47.09:681][826]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbca91b68, Size=4, Default__charizardV11Export_C Function /Engine/Transient.REINST_charizardV11Export_C_3:ExecuteUbergraph_charizardV11Export
+[2018.05.27-19.47.10:120][826]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbca91b68, Size=4
+[2018.05.27-19.47.59:609][742]LogSavePackage: Save=11.92ms
+[2018.05.27-19.47.59:609][742]LogSavePackage: Moving '../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Saved/HandheldARBlankMap4E2D38C54D973A822E31B4B44CB99E2A.tmp' to '../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Content/HandheldARBP/Maps/HandheldARBlankMap.umap'
+[2018.05.27-19.47.59:613][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Content/HandheldARBP/Maps/HandheldARBlankMap.umap
+[2018.05.27-19.47.59:645][742]LogFileHelpers: Saving map 'HandheldARBlankMap' took 0.126
+[2018.05.27-19.47.59:647][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HandheldARBP/Menu/MainMenu" FILE="../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Content/HandheldARBP/Menu/MainMenu.uasset" SILENT=true
+[2018.05.27-19.47.59:684][742]LogSavePackage: Save=34.25ms
+[2018.05.27-19.47.59:684][742]LogSavePackage: Moving '../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Saved/MainMenu7AE02CA74EAD5D8B1D9A1BA3E2C545E5.tmp' to '../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Content/HandheldARBP/Menu/MainMenu.uasset'
+[2018.05.27-19.47.59:688][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Content/HandheldARBP/Menu/MainMenu.uasset
+[2018.05.27-19.48.01:800][869]MapCheck: New page: Map Check
+[2018.05.27-19.48.01:808][869]Cmd: MAP REBUILD ALLVISIBLE
+[2018.05.27-19.48.01:808][869]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.05.27-19.48.01:885][869]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2018.05.27-19.48.01:897][869]LightingResults: New page: Lighting Build - May 27, 2018, 1:48:01 PM
+[2018.05.27-19.48.01:984][869]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.05.27-19.48.02:052][869]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.05.27-19.48.02:063][869]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.05.27-19.48.02:572][869]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.05.27-19.48.02:573][869]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10428
+[2018.05.27-19.48.05:467][869]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.05.27-19.48.05:468][869]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.05.27-19.48.05:468][869]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.05.27-19.48.05:468][869]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.05.27-19.48.05:468][869]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.05.27-19.48.05:468][869]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.05.27-19.48.05:663][869]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.05.27-19.48.05:664][869]MapCheck: New page: HandheldARBlankMap - May 27, 2018, 1:48:05 PM
+[2018.05.27-19.48.05:714][869]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 50.817ms to complete.
+[2018.05.27-19.48.05:737][869]LogEditorBuildUtils: Build time 0:03
+[2018.05.27-19.48.07:690][943]Job is a success!
+[2018.05.27-19.48.07:735][944]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2018.05.27-19.48.07:735][944]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.05.27-19.48.07:735][944]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2018.05.27-19.48.07:735][944]LogVolumetricLightmapImport:      Bricks at Level
+[2018.05.27-19.48.07:735][944]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2018.05.27-19.48.07:735][944]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2018.05.27-19.48.07:735][944]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2018.05.27-19.48.07:820][944]Lightmass on DESKTOP-GG3LHAR: 776 ms total, 149 ms importing, 16 ms setup, 164 ms photons, 410 ms processing, 0 ms extra exporting [0/0 mappings]. Threads: 1.60 sec total, 0 ms processing.
+[2018.05.27-19.48.07:855][944]LogStaticLightingSystem: Illumination: 5.93 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2018.05.27-19.48.07:855][944]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2018.05.27-19.48.07:855][944]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2018.05.27-19.48.08:473][944]DumpUnbuiltLightIteractions
+[2018.05.27-19.48.08:473][944]Lights with unbuilt interactions: 0
+[2018.05.27-19.48.08:473][944]
+[2018.05.27-19.48.08:473][944]Primitives with unbuilt interactions: 0
+[2018.05.27-19.48.08:505][945]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.05.27-19.48.08:506][945]MapCheck: New page: HandheldARBlankMap - May 27, 2018, 1:48:08 PM
+[2018.05.27-19.48.08:560][945]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 53.891ms to complete.
+[2018.05.27-19.48.13:315][209]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.05.27-19.48.13:655][209]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbc6688e8, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.27-19.48.13:655][209]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbc6688e0, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.27-19.48.14:178][209]LogSlate: Took 0.028196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.27-19.48.37:952][611]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_52' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.37:979][611]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_54' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.37:982][611]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_56' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:003][612]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_58' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:005][612]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_60' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:019][613]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_62' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:021][613]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_64' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:023][613]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_66' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:036][614]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_68' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:039][614]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_70' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:053][615]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_72' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:055][615]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_74' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:070][616]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_76' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:072][616]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_78' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:087][617]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_80' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:090][617]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_82' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:103][618]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_84' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:105][618]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_86' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:120][619]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_88' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:122][619]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_90' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:136][620]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_92' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:139][620]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_94' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:152][621]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_96' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:154][621]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_98' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:169][622]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_100' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:171][622]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_102' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:187][623]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_104' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:202][624]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_106' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:204][624]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_108' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:219][625]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_110' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:222][625]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_112' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:236][626]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_114' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:239][626]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_116' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:253][627]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_118' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:255][627]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_120' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:269][628]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_122' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:272][628]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_124' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:287][629]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_126' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:303][630]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_128' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:305][630]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_130' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:319][631]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_132' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:322][631]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_134' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:336][632]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_136' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:339][632]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_138' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:353][633]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_140' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:355][633]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_142' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:369][634]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_144' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:372][634]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_146' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:387][635]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_148' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:404][636]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_150' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:420][637]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_152' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:437][638]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_154' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:454][639]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_156' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:470][640]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_158' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:487][641]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_160' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:503][642]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_162' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:520][643]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_164' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:537][644]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_166' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:553][645]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_168' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:571][646]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_170' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:587][647]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_172' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:604][648]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_174' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:620][649]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_176' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:638][650]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_178' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:653][651]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_180' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:655][651]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_182' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:670][652]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_184' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:671][652]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_186' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:686][653]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_188' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:688][653]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_190' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:703][654]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_192' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:704][654]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_194' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:720][655]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_196' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:721][655]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_198' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:737][656]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_200' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:753][657]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_202' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:771][658]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_204' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:787][659]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_206' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:804][660]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_208' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:820][661]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_210' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:837][662]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_212' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:854][663]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_214' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:870][664]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_216' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:887][665]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_218' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:904][666]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_220' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:920][667]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_222' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:937][668]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_224' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:953][669]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_226' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:955][669]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_228' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:970][670]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_230' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:972][670]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_232' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:986][671]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_234' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.38:989][671]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_236' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:003][672]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_238' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:005][672]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_240' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:020][673]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_242' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:036][674]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_244' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:038][674]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_246' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:053][675]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_248' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:071][676]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_250' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:087][677]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_252' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:104][678]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_254' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:120][679]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_256' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:138][680]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_258' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:153][681]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_260' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:171][682]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_262' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:187][683]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_264' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:203][684]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_266' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:220][685]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_268' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:237][686]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_270' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:253][687]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_272' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:270][688]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_274' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:287][689]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_276' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:304][690]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_278' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:320][691]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_280' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:322][691]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_282' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:337][692]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_284' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:354][693]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_286' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:370][694]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_288' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:372][694]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_290' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:387][695]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_292' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:389][695]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_294' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:402][696]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_296' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:404][696]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_298' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:420][697]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_300' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:437][698]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_302' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:454][699]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_304' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:470][700]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_306' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:487][701]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_308' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:503][702]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_310' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:520][703]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_312' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:538][704]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_314' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:554][705]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_316' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:570][706]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_318' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:587][707]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_320' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:604][708]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_322' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:620][709]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_324' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:638][710]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_326' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:654][711]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_328' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:670][712]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_330' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:687][713]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_332' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:689][713]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_334' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:704][714]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_336' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:721][715]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_338' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:738][716]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_340' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:754][717]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_342' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:770][718]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_344' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:772][718]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_346' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:787][719]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_348' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:803][720]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_350' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:820][721]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_352' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:837][722]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_354' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:853][723]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_356' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:870][724]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_358' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:886][725]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_360' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:888][725]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_362' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:903][726]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_364' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:905][726]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_366' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:919][727]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_368' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:921][727]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_370' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:936][728]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_372' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:939][728]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_374' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:953][729]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_376' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:955][729]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_378' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:969][730]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_380' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:971][730]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_382' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:986][731]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_384' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.39:988][731]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_386' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:004][732]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_388' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:007][732]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_390' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:020][733]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_392' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:022][733]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_394' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:038][734]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_396' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:054][735]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_398' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:056][735]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_400' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:071][736]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_402' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:072][736]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_404' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:087][737]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_406' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:089][737]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_408' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:104][738]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_410' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:107][738]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_412' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:121][739]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_414' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:122][739]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_416' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:137][740]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_418' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:139][740]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_420' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:155][741]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_422' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:171][742]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_424' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:188][743]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_426' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:205][744]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_428' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:222][745]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_430' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:238][746]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_432' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:240][746]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_434' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:254][747]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_436' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:256][747]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_438' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:271][748]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_440' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:273][748]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_442' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:288][749]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_444' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:291][749]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_446' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:304][750]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_448' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:306][750]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_450' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:321][751]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_452' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:324][751]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_454' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:338][752]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_456' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:340][752]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_458' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:355][753]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_460' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:356][753]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_462' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:370][754]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_464' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:373][754]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_466' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:388][755]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_468' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:390][755]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_470' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:404][756]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_472' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:421][757]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_474' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:423][757]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_476' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:438][758]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_478' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:455][759]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_480' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:472][760]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_482' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:488][761]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_484' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:505][762]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_486' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:522][763]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_488' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:538][764]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_490' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:540][764]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_492' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:555][765]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_494' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:571][766]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_496' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:573][766]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_498' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:589][767]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_500' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:605][768]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_502' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:621][769]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_504' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:623][769]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_506' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:639][770]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_508' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:654][771]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_510' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:656][771]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_512' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:670][772]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_514' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:672][772]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_516' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:687][773]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_518' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:689][773]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_520' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:704][774]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_522' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:707][774]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_524' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:720][775]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_526' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:723][775]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_528' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:737][776]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_530' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:739][776]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_532' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:754][777]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_534' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:756][777]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_536' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:771][778]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_538' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:788][779]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_540' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:804][780]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_542' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:806][780]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_544' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:821][781]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_546' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:838][782]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_548' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:854][783]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_550' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:858][783]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_552' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:873][784]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_554' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.40:889][785]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_556' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:422][927]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_52' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:423][927]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_560' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:425][927]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_562' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:439][928]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_564' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:442][928]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_566' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:456][929]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_568' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:458][929]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_570' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:473][930]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_572' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:475][930]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_574' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:490][931]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_576' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:492][931]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_578' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:506][932]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_580' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:508][932]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_582' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:522][933]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_584' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:524][933]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_586' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:539][934]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_588' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:541][934]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_590' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:556][935]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_592' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:573][936]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_594' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:575][936]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_596' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:590][937]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_598' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:607][938]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_600' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:623][939]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_602' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:624][939]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_604' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:639][940]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_606' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:641][940]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_608' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:656][941]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_610' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:673][942]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_612' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:675][942]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_614' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:690][943]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_616' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:707][944]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_618' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:709][944]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_620' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:723][945]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_622' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:742][946]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_624' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:744][946]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_626' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:759][947]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_628' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:762][947]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_630' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:775][948]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_632' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:778][948]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_634' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:792][949]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_636' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:794][949]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_638' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:809][950]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_640' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:811][950]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_642' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:826][951]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_644' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:828][951]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_646' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:842][952]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_648' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:844][952]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_650' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:859][953]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_652' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:861][953]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_654' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:876][954]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_656' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:878][954]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_658' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:884][954]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_660' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:897][955]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_662' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:899][955]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_664' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:913][956]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_666' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:916][956]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_668' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:929][957]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_670' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:931][957]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_672' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:946][958]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_674' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:949][958]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_676' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:971][959]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_678' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:973][959]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_680' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:992][960]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_682' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.43:994][960]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_684' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:008][961]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_686' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:010][961]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_688' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:025][962]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_690' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:028][962]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_692' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:042][963]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_694' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:058][964]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_696' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:061][964]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_698' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:076][965]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_700' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:093][966]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_702' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:110][967]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_704' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:127][968]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_706' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:143][969]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_708' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:160][970]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_710' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:181][971]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_712' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:200][972]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_714' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:220][973]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_716' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:237][974]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_718' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:255][975]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_720' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:272][976]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_722' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:289][977]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_724' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:306][978]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_726' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:322][979]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_728' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:339][980]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_730' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:356][981]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_732' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:373][982]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_734' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:390][983]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_736' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:408][984]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_738' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:423][985]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_740' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:440][986]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_742' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:457][987]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_744' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:473][988]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_746' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:490][989]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_748' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:512][990]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_750' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:540][991]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_752' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:558][992]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_754' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:560][992]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_756' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:575][993]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_758' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:596][994]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_760' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:616][995]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_762' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:639][996]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_764' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:656][997]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_766' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:674][998]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_768' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:690][999]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_770' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:707][  0]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_772' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:724][  1]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_774' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:741][  2]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_776' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:759][  3]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_778' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:776][  4]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_780' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:792][  5]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_782' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:810][  6]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_784' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:831][  7]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_786' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:848][  8]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_788' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:865][  9]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_790' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:881][ 10]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_792' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:898][ 11]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_794' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:916][ 12]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_796' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:933][ 13]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_798' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:949][ 14]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_800' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:966][ 15]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_802' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.44:983][ 16]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_804' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.45:000][ 17]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_806' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.45:017][ 18]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_808' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.45:033][ 19]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_810' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.45:050][ 20]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_812' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.45:066][ 21]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_814' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.45:083][ 22]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_816' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.45:100][ 23]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_818' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.45:117][ 24]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_820' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.45:133][ 25]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_822' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.45:150][ 26]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_824' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.45:166][ 27]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_826' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.45:183][ 28]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_828' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.53:269][493]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_52' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.53:270][493]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_832' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.53:272][493]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_834' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.53:288][494]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_836' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.53:290][494]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_838' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.53:304][495]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_840' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.53:306][495]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_842' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.53:320][496]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_844' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.53:322][496]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_846' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.53:337][497]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_848' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.53:339][497]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_850' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.53:354][498]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_852' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.53:356][498]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_854' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.53:371][499]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_856' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.53:373][499]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_858' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.53:387][500]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_860' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.53:390][500]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_862' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.53:404][501]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_864' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.53:405][501]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_866' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.53:407][501]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_868' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.53:421][502]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_870' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.53:438][503]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_872' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.53:455][504]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_874' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.48.53:471][505]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.GridPanel_876' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.27-19.49.22:779][220]LogSlate: Took 0.046987 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.05.27-19.51.43:220][538]LogEditorTransaction: Undo Add Widget
+[2018.05.27-19.57.28:023][640]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.27-19.58.17:462][542]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.27-19.58.21:540][777]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.27-19.58.29:210][210]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.27-19.58.33:358][444]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.27-19.58.34:715][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HandheldARBP/Menu/MainMenu" FILE="../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Content/HandheldARBP/Menu/MainMenu.uasset" SILENT=true
+[2018.05.27-19.58.34:753][523]LogSavePackage: Save=23.32ms
+[2018.05.27-19.58.34:753][523]LogSavePackage: Moving '../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Saved/MainMenuDD1D41FE405C4C32B345618E8009754E.tmp' to '../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Content/HandheldARBP/Menu/MainMenu.uasset'
+[2018.05.27-19.58.34:756][523]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Content/HandheldARBP/Menu/MainMenu.uasset
+[2018.05.27-19.58.35:509][568]BlueprintLog: New page: Compile MainMenu
+[2018.05.27-19.59.20:490][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HandheldARBP/Menu/MainMenu" FILE="../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Content/HandheldARBP/Menu/MainMenu.uasset" SILENT=true
+[2018.05.27-19.59.20:511][989]LogSavePackage: Save=16.45ms
+[2018.05.27-19.59.20:511][989]LogSavePackage: Moving '../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Saved/MainMenu253020FF496E6029A46FB88A2057A81A.tmp' to '../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Content/HandheldARBP/Menu/MainMenu.uasset'
+[2018.05.27-19.59.20:514][989]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Content/HandheldARBP/Menu/MainMenu.uasset
+[2018.05.27-19.59.20:966][ 16]BlueprintLog: New page: Compile MainMenu
+[2018.05.27-19.59.32:193][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HandheldARBP/Menu/MainMenu" FILE="../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Content/HandheldARBP/Menu/MainMenu.uasset" SILENT=true
+[2018.05.27-19.59.32:212][679]LogSavePackage: Save=14.41ms
+[2018.05.27-19.59.32:212][679]LogSavePackage: Moving '../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Saved/MainMenu6A9291944D961AAC154A6080F3A0F7CB.tmp' to '../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Content/HandheldARBP/Menu/MainMenu.uasset'
+[2018.05.27-19.59.32:213][679]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Content/HandheldARBP/Menu/MainMenu.uasset
+[2018.05.27-19.59.33:182][737]LogSlate: Window 'MainMenu' being destroyed
+[2018.05.27-19.59.33:186][737]LogSlate: Window 'MainMenu' being destroyed
+[2018.05.27-20.00.00:863][306]LogSavePackage: Save=10.95ms
+[2018.05.27-20.00.00:863][306]LogSavePackage: Moving '../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Saved/HandheldARBlankMap_Auto13FBD059F40EDCE65D9DC90A55E4A3B8F.tmp' to '../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Saved/Autosaves/Game/HandheldARBP/Maps/HandheldARBlankMap_Auto1.umap'
+[2018.05.27-20.00.00:865][306]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Saved/Autosaves/Game/HandheldARBP/Maps/HandheldARBlankMap_Auto1.umap
+[2018.05.27-20.00.00:868][306]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/HandheldARBP/Maps/HandheldARBlankMap' took 0.131
+[2018.05.27-20.00.00:868][306]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.131
+[2018.05.27-20.00.00:870][306]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HandheldARBP/Maps/HandheldARBlankMap_BuiltData] ([1] browsable assets)...
+[2018.05.27-20.00.00:870][306]OBJ SavePackage: Finished generating thumbnails for package [/Game/HandheldARBP/Maps/HandheldARBlankMap_BuiltData]
+[2018.05.27-20.00.00:884][306]LogSavePackage: Save=5.16ms
+[2018.05.27-20.00.00:884][306]LogSavePackage: Moving '../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Saved/HandheldARBlankMap_BuiltData_Aut9276F88749B0CED535F3EBBC74155A3A.tmp' to '../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Saved/Autosaves/Game/HandheldARBP/Maps/HandheldARBlankMap_BuiltData_Auto1.uasset'
+[2018.05.27-20.00.00:885][306]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Saved/Autosaves/Game/HandheldARBP/Maps/HandheldARBlankMap_BuiltData_Auto1.uasset
+[2018.05.27-20.00.00:885][306]LogFileHelpers: Auto-saving content packages took 0.016
+[2018.05.27-20.00.14:623][ 89]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d083c4860, Size=148, Default__BP_Placeable_C Function /Game/HandheldARBP/Blueprints/Placeable/BP_Placeable.BP_Placeable_C:ExecuteUbergraph_BP_Placeable
+[2018.05.27-20.00.14:626][ 89]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d083c4860, Size=148
+[2018.05.27-20.00.14:626][ 89]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d083c5e40, Size=148, Default__BP_Placeable_C Function /Engine/Transient.REINST_BP_Placeable_C_40:ExecuteUbergraph_BP_Placeable
+[2018.05.27-20.00.14:628][ 89]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d08488e00, Size=148, Default__BP_Placeable_C Function /Game/HandheldARBP/Blueprints/Placeable/BP_Placeable.BP_Placeable_C:ExecuteUbergraph_BP_Placeable
+[2018.05.27-20.00.14:638][ 89]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbb367c00, Size=496, Default__BP_ARPawn_C Function /Game/HandheldARBP/Blueprints/GameFramework/BP_ARPawn.BP_ARPawn_C:ExecuteUbergraph_BP_ARPawn
+[2018.05.27-20.00.14:641][ 89]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ca7384580, Size=128, Default__BP_DebugMenu_C Function /Game/HandheldARBP/Blueprints/UI/BP_DebugMenu.BP_DebugMenu_C:ExecuteUbergraph_BP_DebugMenu
+[2018.05.27-20.00.14:680][ 89]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d075c6ab0, Size=4, Default__BP_MainMenu_C Function /Game/HandheldARBP/Blueprints/UI/BP_MainMenu.BP_MainMenu_C:ExecuteUbergraph_BP_MainMenu
+[2018.05.27-20.00.14:705][ 89]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbb367c00, Size=496
+[2018.05.27-20.00.14:705][ 89]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d0cdc1400, Size=496, Default__BP_ARPawn_C Function /Engine/Transient.REINST_BP_ARPawn_C_42:ExecuteUbergraph_BP_ARPawn
+[2018.05.27-20.00.14:706][ 89]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ca7384580, Size=128
+[2018.05.27-20.00.14:706][ 89]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbcf75300, Size=128, Default__BP_DebugMenu_C Function /Engine/Transient.REINST_BP_DebugMenu_C_19:ExecuteUbergraph_BP_DebugMenu
+[2018.05.27-20.00.14:706][ 89]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d075c6ab0, Size=4
+[2018.05.27-20.00.14:706][ 89]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d075c6ab0, Size=4, Default__BP_MainMenu_C Function /Engine/Transient.REINST_BP_MainMenu_C_20:ExecuteUbergraph_BP_MainMenu
+[2018.05.27-20.00.14:728][ 89]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cba272200, Size=496, Default__BP_ARPawn_C Function /Game/HandheldARBP/Blueprints/GameFramework/BP_ARPawn.BP_ARPawn_C:ExecuteUbergraph_BP_ARPawn
+[2018.05.27-20.00.14:735][ 89]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d09332180, Size=128, Default__BP_DebugMenu_C Function /Game/HandheldARBP/Blueprints/UI/BP_DebugMenu.BP_DebugMenu_C:ExecuteUbergraph_BP_DebugMenu
+[2018.05.27-20.00.14:738][ 89]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d077a0290, Size=4, Default__BP_MainMenu_C Function /Game/HandheldARBP/Blueprints/UI/BP_MainMenu.BP_MainMenu_C:ExecuteUbergraph_BP_MainMenu
+[2018.05.27-20.01.09:266][235]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cc4b07c70, Size=4, Default__SKEL_HandheldARBlankMap_C Function /Game/HandheldARBP/Maps/HandheldARBlankMap.SKEL_HandheldARBlankMap_C:ExecuteUbergraph_HandheldARBlankMap
+[2018.05.27-20.01.33:180][642]LogSlate: Took 0.022877 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.27-20.02.00:971][288]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d075c6ab0, Size=4
+[2018.05.27-20.02.00:971][288]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbcf75300, Size=128
+[2018.05.27-20.02.00:971][288]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d0cdc1400, Size=496
+[2018.05.27-20.02.00:971][288]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d083c5e40, Size=148
+[2018.05.27-20.02.00:977][288]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cc4b07c70, Size=4
+[2018.05.27-20.02.00:977][288]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019cbf3e35b0, Size=4, Default__SKEL_HandheldARBlankMap_C Function /Engine/Transient.REINST_SKEL_HandheldARBlankMap_C_52:ExecuteUbergraph_HandheldARBlankMap
+[2018.05.27-20.02.00:980][288]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d0cd4ca40, Size=16, Default__HandheldARBlankMap_C Function /Game/HandheldARBP/Maps/HandheldARBlankMap.HandheldARBlankMap_C:ExecuteUbergraph_HandheldARBlankMap
+[2018.05.27-20.02.01:050][288]LogSavePackage: Save=75.03ms
+[2018.05.27-20.02.01:050][288]LogSavePackage: Moving '../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Saved/HandheldARBlankMapC15C5E5F4B1F59334B215DACEBCCFF3B.tmp' to '../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Content/HandheldARBP/Maps/HandheldARBlankMap.umap'
+[2018.05.27-20.02.01:058][288]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/diama/Documents/Unreal Projects/PokeAR/Content/HandheldARBP/Maps/HandheldARBlankMap.umap
+[2018.05.27-20.02.01:091][288]LogFileHelpers: Saving map 'HandheldARBlankMap' took 0.202
+[2018.05.27-20.02.01:552][315]BlueprintLog: New page: Compile HandheldARBlankMap
+[2018.05.27-20.02.01:555][315]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d0cd4ca40, Size=16
+[2018.05.27-20.02.01:555][315]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d0cd4ca40, Size=16, HandheldARBlankMap_C_0 Function /Engine/Transient.REINST_HandheldARBlankMap_C_58:ExecuteUbergraph_HandheldARBlankMap
+[2018.05.27-20.02.01:556][315]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019d0cd4dd70, Size=16, Default__HandheldARBlankMap_C Function /Game/HandheldARBP/Maps/HandheldARBlankMap.HandheldARBlankMap_C:ExecuteUbergraph_HandheldARBlankMap
+[2018.05.27-20.02.01:652][315]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019cbf3e35b0, Size=4
+[2018.05.27-20.02.02:978][394]LogSlate: Window 'HandheldARBlankMap* - Level Blueprint Editor' being destroyed
+[2018.05.27-20.02.02:982][394]LogSlate: Window 'HandheldARBlankMap* - Level Blueprint Editor' being destroyed
+[2018.05.27-20.02.04:011][454]MapCheck: New page: Map Check
+[2018.05.27-20.02.04:022][454]Cmd: MAP REBUILD ALLVISIBLE
+[2018.05.27-20.02.04:022][454]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.05.27-20.02.04:133][454]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019d0cd4ca40, Size=16
+[2018.05.27-20.02.04:144][454]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2018.05.27-20.02.04:164][454]LightingResults: New page: Lighting Build - May 27, 2018, 2:02:04 PM
+[2018.05.27-20.02.04:173][454]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.05.27-20.02.04:177][454]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.05.27-20.02.04:178][454]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.05.27-20.02.04:178][454]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.05.27-20.02.04:179][454]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10428
+[2018.05.27-20.02.08:694][454]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.05.27-20.02.08:694][454]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.05.27-20.02.08:694][454]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.05.27-20.02.08:694][454]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.05.27-20.02.08:694][454]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.05.27-20.02.08:694][454]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.05.27-20.02.08:851][454]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.05.27-20.02.08:851][454]MapCheck: New page: HandheldARBlankMap - May 27, 2018, 2:02:08 PM
+[2018.05.27-20.02.08:904][454]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 53.121ms to complete.
+[2018.05.27-20.02.08:928][454]LogEditorBuildUtils: Build time 0:04
+[2018.05.27-20.02.10:223][504]Job is a success!
+[2018.05.27-20.02.10:289][506]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2018.05.27-20.02.10:289][506]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.05.27-20.02.10:289][506]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2018.05.27-20.02.10:289][506]LogVolumetricLightmapImport:      Bricks at Level
+[2018.05.27-20.02.10:289][506]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2018.05.27-20.02.10:289][506]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2018.05.27-20.02.10:289][506]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2018.05.27-20.02.10:321][506]Lightmass on DESKTOP-GG3LHAR: 599 ms total, 139 ms importing, 16 ms setup, 161 ms photons, 253 ms processing, 0 ms extra exporting [0/0 mappings]. Threads: 983 ms total, 0 ms processing.
+[2018.05.27-20.02.10:328][506]LogStaticLightingSystem: Illumination: 6.13 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2018.05.27-20.02.10:329][506]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2018.05.27-20.02.10:329][506]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2018.05.27-20.02.10:698][506]DumpUnbuiltLightIteractions
+[2018.05.27-20.02.10:698][506]Lights with unbuilt interactions: 0
+[2018.05.27-20.02.10:698][506]
+[2018.05.27-20.02.10:698][506]Primitives with unbuilt interactions: 0
+[2018.05.27-20.02.10:738][507]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.05.27-20.02.10:738][507]MapCheck: New page: HandheldARBlankMap - May 27, 2018, 2:02:10 PM
+[2018.05.27-20.02.10:793][507]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.797ms to complete.
+[2018.05.27-20.02.12:897][633]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.27-20.02.12:913][633]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/HandheldARBP/Maps/HandheldARBlankMap.HandheldARBlankMap:PersistentLevel' has LevelScriptBlueprint '/Game/HandheldARBP/Maps/HandheldARBlankMap.HandheldARBlankMap:PersistentLevel.HandheldARBlankMap' with GeneratedClass '/Game/HandheldARBP/Maps/HandheldARBlankMap.HandheldARBlankMap_C' with ClassGeneratedBy '/Game/HandheldARBP/Maps/HandheldARBlankMap.HandheldARBlankMap:PersistentLevel.HandheldARBlankMap'
+[2018.05.27-20.02.12:913][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.27-20.02.12:913][633]PIE: New page: PIE session: HandheldARBlankMap (May 27, 2018, 2:02:12 PM)
+[2018.05.27-20.02.12:913][633]LogPlayLevel: Creating play world package: /Game/HandheldARBP/Maps/UEDPIE_0_HandheldARBlankMap
+[2018.05.27-20.02.12:915][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001270s)
+[2018.05.27-20.02.12:915][633]LogAIModule: Creating AISystem for world HandheldARBlankMap
+[2018.05.27-20.02.12:916][633]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2018.05.27-20.02.12:916][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HandheldARBP/Maps/HandheldARBlankMap.HandheldARBlankMap to /Game/HandheldARBP/Maps/UEDPIE_0_HandheldARBlankMap.HandheldARBlankMap (0.002380s)
+[2018.05.27-20.02.12:937][633]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.27-20.02.12:958][633]LogInit: FAudioDevice initialized.
+[2018.05.27-20.02.13:001][633]LogLoad: Game class is 'BP_ARGameMode_C'
+[2018.05.27-20.02.13:002][633]LogWorld: Bringing World /Game/HandheldARBP/Maps/UEDPIE_0_HandheldARBlankMap.HandheldARBlankMap up for play (max tick rate 0) at 2018.05.27-17.02.13
+[2018.05.27-20.02.13:002][633]LogWorld: Bringing up level for play took: 0.000376
+[2018.05.27-20.02.13:009][633]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.05.27-20.02.13:012][633]PIE: Warning: The widget 'BP_DebugMenu_C' was already added to the screen.
+[2018.05.27-20.02.13:013][633]PIE: Play in editor start time for /Game/HandheldARBP/Maps/UEDPIE_0_HandheldARBlankMap -0.469
+[2018.05.27-20.02.13:013][633]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/HandheldARBP/Maps/HandheldARBlankMap.HandheldARBlankMap:PersistentLevel' has LevelScriptBlueprint '/Game/HandheldARBP/Maps/HandheldARBlankMap.HandheldARBlankMap:PersistentLevel.HandheldARBlankMap' with GeneratedClass '/Game/HandheldARBP/Maps/HandheldARBlankMap.HandheldARBlankMap_C' with ClassGeneratedBy '/Game/HandheldARBP/Maps/HandheldARBlankMap.HandheldARBlankMap:PersistentLevel.HandheldARBlankMap'
+[2018.05.27-20.02.14:127][688]LogOutputDevice: Warning: 
+
+Script Stack:
+BP_MainMenu_C.ExecuteUbergraph_BP_MainMenu
+BP_MainMenu_C.BndEvt__Button_40_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature
+
+[2018.05.27-20.02.14:640][688]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.513 s
+[2018.05.27-20.02.14:640][688]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.27-20.02.14:640][688]LogOutputDevice: Error: 
+[2018.05.27-20.02.14:640][688]LogOutputDevice: Error: Ensure condition failed: ARSystem.IsValid() [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\AugmentedReality\Private\ARBlueprintLibrary.cpp] [Line: 81]
+[2018.05.27-20.02.14:640][688]LogOutputDevice: Error: Attempting to Start an AR session but there is no AR system. To use AR, enable bIsARApp under Project Settings.
+[2018.05.27-20.02.14:640][688]LogOutputDevice: Error: Stack: 
+[2018.05.27-20.02.14:640][688]LogOutputDevice: Error: [Callstack] 0x000000007961B706 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.27-20.02.14:640][688]LogOutputDevice: Error: [Callstack] 0x000000007937AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.27-20.02.14:640][688]LogOutputDevice: Error: [Callstack] 0x000000007938ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.27-20.02.14:640][688]LogOutputDevice: Error: [Callstack] 0x000000009C97CA1A UE4Editor-AugmentedReality.dll!UnknownFunction []
+[2018.05.27-20.02.14:640][688]LogOutputDevice: Error: [Callstack] 0x000000009C980CD7 UE4Editor-AugmentedReality.dll!UnknownFunction []
+[2018.05.27-20.02.14:640][688]LogOutputDevice: Error: [Callstack] 0x000000007A23E094 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x000000007A410781 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x000000007A4287B1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x000000007A42AA82 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x000000007A4111EE UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x000000007A42AA82 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x000000007A23E094 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x000000007A429D73 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x0000000078DFE119 UE4Editor-UMG.dll!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x0000000078EFA03F UE4Editor-UMG.dll!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x0000000078DD847E UE4Editor-UMG.dll!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x0000000078DDA939 UE4Editor-UMG.dll!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x0000000078E84981 UE4Editor-UMG.dll!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x00000000777BB7F7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x00000000777E19E8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x000000007760485C UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x00000000775D7D75 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x000000007766F617 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x0000000077657D0D UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x000000007764D0FA UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x000000007764B505 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x0000000088CEE69B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x0000000088CE1B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x0000000088CF052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x0000000088CDD679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x00000000B3776CC1 USER32.dll!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x00000000B3776693 USER32.dll!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x0000000088CF1666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x000000000CCB5475 UE4Editor.exe!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x000000000CCC6BD0 UE4Editor.exe!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x000000000CCC6C4A UE4Editor.exe!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x000000000CCD4177 UE4Editor.exe!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x000000000CCD5B87 UE4Editor.exe!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x00000000B3FC3034 KERNEL32.DLL!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: [Callstack] 0x00000000B4AE1551 ntdll.dll!UnknownFunction []
+[2018.05.27-20.02.14:641][688]LogOutputDevice: Error: 
+[2018.05.27-20.02.14:646][688]LogStats:                SubmitErrorReport -  0.000 s
