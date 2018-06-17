@@ -1,1 +1,1 @@
-../../../PokeAR/PokeAR.uproject  /Game/HandheldARBP/Maps/HandheldARBlankMap -Messaging -SessionId=F782BB734879ECE9FB21D4A76BCE51DA -SessionOwner="diama" -SessionName="Launch On Device" -iterative
+../../../PokeAR/PokeAR.uproject  /Game/HandheldARBP/Maps/HandheldARBlankMap -Messaging -SessionId=51645CD245372D5AC89320A14377D778 -SessionOwner="diama" -SessionName="Launch On Device" -iterative
